@@ -1,2 +1,2 @@
-# c-digos
-Estudante de Engenharia de Computação da Universidade Federal Do Rio Grande-FURG
+# projects - codes
+Some of my projects that I did to study certain programming languages like javascript and python.
